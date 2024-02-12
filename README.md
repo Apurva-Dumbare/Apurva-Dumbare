@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/apurva-dumbare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apurva-dumbare" height="30" width="40" /></a>
 <a href="https://codesandbox.com/apurva dumbare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="apurva dumbare" height="30" width="40" /></a>
 <a href="https://instagram.com/apurva dumbare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apurva dumbare" height="30" width="40" /></a>
-<a href="https://medium.com/@apurva_dumbare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@apurva_dumbare" height="30" width="40" /></a>
+<a href="https://medium.com/@apurvadumbare2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@apurva_dumbare" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/apurva dumbare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="apurva dumbare" height="30" width="40" /></a>
 </p>
 
