@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Apurva Dumbare</h1>
-<h3 align="center">A passionate software developer</h3>
+
 
 <img align="right" alt="coding" width="400" src="https://www.expressjs.org/wp-content/uploads/2022/07/animation_640_l5m4gs21.gif">
 
