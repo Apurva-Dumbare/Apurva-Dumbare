@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **RoomMate Finder**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **full stack web dev**
 
 - 👨‍💻 All of my projects are available at [https://apurvadumbareportfolio.netlify.app/](https://apurvadumbareportfolio.netlify.app/)
 
